@@ -431,6 +431,15 @@ section {
 	animation: ripple-animation 2s;
 }
 
+#aboutText{
+	padding: 15px;
+	color: #ffffff
+}
+
+ #social {
+	margin-left: 20px;
+}
+
 @-webkit-keyframes ripple-animation {
 	from {
 		opacity: 0.2;
