@@ -320,10 +320,10 @@ section {
 }
 
 #profilePic{
-	width:330px;
+	width:360px;
 	height: 300px;
 	padding:20px;
-	padding-left: 50px;
+	padding-left: 25px;
 	border-radius: 20px;
 }
 
@@ -676,6 +676,9 @@ section {
 	height: 175px;
 }
 
+.footer{
+	height: 150px;
+}
 /* Form Control */
 
 .form-control {
